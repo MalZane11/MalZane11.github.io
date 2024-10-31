@@ -1,0 +1,15 @@
+.genericSocials {
+    background-color: white;
+    justify-content: left;
+    display: grid;
+    grid-template-columns: 3;
+}
+
+#genericHeadText {
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#genericSubText {
+    color: black;
+}

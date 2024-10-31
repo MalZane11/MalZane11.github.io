@@ -1,0 +1,10 @@
+.OfficersPage {
+    display: grid;
+    grid-template-columns: 3;
+    justify-content: center;
+    margin: auto;
+}
+
+#row {
+    display: inline-flex;
+}

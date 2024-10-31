@@ -1,0 +1,6 @@
+.GenericHome {
+    display: grid;
+    grid-template-columns: 1;
+    justify-content: center;
+    margin: 0 20% 0 20%;
+}

@@ -1,0 +1,20 @@
+.IconRow img {
+    height: 30px;
+    margin-right: 10px;
+}
+
+.GenericFooter {
+    background-color: lightgray;
+    color: #c03655;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.IconRow {
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}

@@ -1,0 +1,28 @@
+img {
+    height: 100px;
+}
+
+.GenericHeader {
+    height: 100px;
+    background-color: lightgray;
+    color: #c03655;
+    display: flex;
+    justify-items: center;
+    justify-content: center;
+    /**position: fixed;*/
+}
+
+/* @media screen and (max-width: 600px) {
+    /* Styles for when viewport width is less than 600px */
+    /* .GenericHeader { */
+      /* Add your styles here */
+      /* flex-direction: column;
+      background-color: lightgray;
+      justify-content: center;
+      justify-items: center;
+      height: 50px;
+      width: 100%;
+      margin-bottom: 40px;
+    }
+  } */ 
+  
